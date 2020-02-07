@@ -1,4 +1,46 @@
-Base path: 'C:/Program Files/Unity/Editor/2019.2.17f1/Editor/Data', plugins path 'C:/Program Files/Unity/Editor/2019.2.17f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/2019.2.16f1/Editor/Data', plugins path 'C:/Program Files/Unity/2019.2.16f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-Cmd: compileSnippet
-  api=4 type=0 insize=16611 outsize=5666 kw=_SUNDISK_SIMPLE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7960 outsize=1494 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=64076 outsize=4640 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1879 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=2057 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=24335 outsize=2904 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7335 outsize=2550 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1256): array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1266): array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  api=4 insize=44336 outsize=8563 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4081 outsize=1585 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=970 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=759 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=749 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=796 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=759 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=777 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1253 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1479 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1355 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1331 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1279 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1626 ok=1

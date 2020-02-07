@@ -1,0 +1,58 @@
+Base path: 'C:/Program Files/Unity/2019.2.16f1/Editor/Data', plugins path 'C:/Program Files/Unity/2019.2.16f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=7960 outsize=2524 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=64076 outsize=12497 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=2319 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=2058 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=24335 outsize=12496 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7335 outsize=1699 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1546 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=2024 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1319 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1316 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1542 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1359 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=2319 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=44336 outsize=1913 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1810 outsize=3117 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=638 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=806 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1005 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=868 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=701 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=831 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1224 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1542 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1301 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1283 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1216 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=29386 outsize=1359 ok=1
