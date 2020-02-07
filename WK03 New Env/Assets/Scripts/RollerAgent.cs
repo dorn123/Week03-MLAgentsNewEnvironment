@@ -37,10 +37,29 @@ public class RollerAgent : Agent
 
     }
 
+    public float speed = 10;
     public override void AgentAction(float[] vectorAction)
     {
         //Action, size = 2
         Vector3 ControlSignal = Vector3.zero;
+        ControlSignal.x = vectorAction[0];
+        ControlSignal.y = vectorAction[1];
+        rBody.AddForce(ControlSignal * speed);
+
+        //Reward
+        float distanceToTarget = Vector3.Distance(this.transform.position, Target.position);
+
+        //Reached Target
+        if (distanceToTarget < 1.42f) {
+            SetReward(1.0f);
+            Done();
+        }
+
+        //Fell of Plateform
+        if (this.transform.position.y < 0) {
+            Done();
+        }
+
     }
 
     void Update()
