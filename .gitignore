@@ -9,6 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/WK03 New Env/[Ll]ibrary/
+/WK03 New Env/[Tt]emp/
+/WK03 New Env/[Oo]bj/
+/WK03 New Env/[Bb]uild/
+/WK03 New Env/[Bb]uilds/
+/WK03 New Env/[Ll]ogs/
+/WK03 New Env/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
